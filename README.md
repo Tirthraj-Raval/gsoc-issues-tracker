@@ -133,6 +133,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Vercel
 - Redis
 
+## Original Repo Link
+https://github.com/kash2104/gsoc-issue-tracker
+
+
 ## Website
 
 [GSOC Issue Tracker](your_website_link)

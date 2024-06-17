@@ -111,6 +111,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Redis
 
 
+## Original Repo Link
+
+https://github.com/kash2104/gsoc-issue-tracker
+
+
 ---
 
 *Made with ❤️ by [Tirthraj Raval](https://www.linkedin.com/in/tirthraj-raval-773422263) and [Kavish Parikh](https://www.linkedin.com/in/kavish-parikh)*
